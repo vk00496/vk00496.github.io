@@ -1,0 +1,66 @@
+body{
+  font-family: Arial;
+}
+#navbarSupportedContent .nav-link{
+  color: darkgreen;
+  text-align: right;
+  float: right;
+}
+#navbarSupportedContent .nav-link:hover{
+  font-size: large;
+}
+.navbar-brand{
+  color: black;
+  font-size: 20px;
+
+}
+.navbar{
+  background-color: lightgreen;
+}
+.row{
+  margin-top: 1cm;
+  height: 200px;
+}
+
+#row1 .col-lg-8{
+  margin-top: 3cm;
+  font-family: Arial;
+  font-style: italic;
+  
+}
+#row1 .col-md-8{
+  margin-top: 3cm;
+  font-family: Arial;
+  font-style: italic;
+}
+#row1 .col-sm-8{
+  margin-top: 3cm;
+  font-family: Arial;
+  font-style: italic;
+}
+
+
+#row1 .h1{
+  text-align: center;
+  font-family: Cambria;
+  font-size: 70px;
+}
+
+
+#row1 .bt1{
+ text-align: center; 
+}
+
+#row3{
+  height: 25px;
+  background-color: lightgreen;
+  margin-top: 3cm;
+    
+}
+#row3 .a1{
+  margin: auto;
+  color: darkgreen;
+}
+#row1 .icon{
+  font-size: 1cm;
+}
